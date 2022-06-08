@@ -1,0 +1,4 @@
+[submodule "lse-odoo/odoo-sh-12"]
+	path = lse-odoo/odoo-sh-12
+	url = git@github.com:lse-odoo/odoo-sh-12.git
+	branch = bug_crash
